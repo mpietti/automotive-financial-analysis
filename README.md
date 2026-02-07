@@ -1,6 +1,13 @@
 # Automotive Portfolio Analytics
 
 A complete data engineering and financial analysis pipeline. 
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg)](https://automotive-financial-analysis.streamlit.app/)
+
+**Live Demo:** [automotive-financial-analysis.streamlit.app](https://automotive-financial-analysis.streamlit.app/)
+
+---
+
 This project extracts historical stock data (2023-2026), structures it into a relational database (SQLite), and performs advanced financial analytics on an automotive-focused portfolio featuring Ferrari, GM, Stellantis, Tesla.
 
 This project represents my first professional step into the world of Data Engineering and Financial Analytics. As a beginner in SQL and Python, I built this end-to-end pipeline to challenge myself with real-world market data.
