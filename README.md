@@ -2,8 +2,6 @@
 
 A complete data engineering and financial analysis pipeline. 
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg)](https://automotive-financial-analysis.streamlit.app/)
-
 **Live Demo:** [automotive-financial-analysis.streamlit.app](https://automotive-financial-analysis.streamlit.app/)
 
 ---
